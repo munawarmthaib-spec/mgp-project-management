@@ -1,0 +1,8 @@
+MGP PROJECT MANAGEMENT - PAKET PWA UNTUK ANDROID
+
+Isi folder ini diunggah ke repository GitHub (semua file berada di root repository).
+Aktifkan GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+Tunggu alamat GitHub Pages aktif, lalu buka alamat itu di Chrome Android.
+Untuk membuat APK: buka https://www.pwabuilder.com/ , masukkan URL GitHub Pages, pilih Android / Package for Stores, lalu ikuti pemeriksaan dan unduh paket Android yang disediakan.
+
+Catatan: file HTML menyimpan data di localStorage browser/perangkat. Data tidak otomatis tersinkron ke HP lain. Jangan hapus data browser sebelum membuat cadangan laporan.
